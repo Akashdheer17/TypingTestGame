@@ -1,5 +1,4 @@
 # Typing Test Game
-## Overview
 The Typing Test Game is a Python program designed to offer users a typing exercise wherein they are prompted with a random sentence to type accurately and quickly. The program calculates typing speed, accuracy, and words per minute (WPM) based on the user's input.
 
 ## Features
